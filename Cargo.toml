@@ -4,4 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-todotxt = "0.3.0"
+chrono = "0.4.40"
+todo-txt = "3.0"
